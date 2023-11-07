@@ -10,6 +10,7 @@
 
 
 //Problem : Create a one-bit wide, 2-to-1 multiplexer. When sel=0, choose a. When sel=1, choose b.
+// My solution
 module top_module
 (
 	input	a	,
@@ -24,7 +25,7 @@ endmodule
 
 
 
-//anothor solution provied HDL_bits
+//anothor solution provied by HDL_bits
 module top_module 
 (
 	input	a	,
