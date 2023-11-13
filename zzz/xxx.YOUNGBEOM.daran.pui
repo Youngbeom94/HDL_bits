@@ -1,15 +1,23 @@
 [Folders]
-..+AFw-="1"
+..+AFw- - Circuits - Combinational Logic=1
+..+AFw- - Circuits - Combinational Logic - Basic Gates=1
+..+AFw-=1
+..+AFw- - 3+AF8-Circuits=1
+..+AFw- - 3+AF8-Circuits - Sequential Logic=1
+..+AFw- - 3+AF8-Circuits - Sequential Logic - Counters=1
 
 [Open Files]
 Active File Display Mode="1"
-Active File Index="0"
-Open File Line0="117"
-Open File Pos0="565"
-Open File Window Pos0="0,1,-1,-1,-1,-1,5,39,1039,601"
+Active File Index="1"
+Open File Line0="783"
+Open File Line1="655"
+Open File Pos0="922"
+Open File Pos1="1046"
+Open File Window Pos0="0,1,-1,-1,-1,-1,5,39,1298,601"
+Open File Window Pos1="0,1,-1,-1,-1,-1,5,39,1298,601"
 Open File0="..\3_Circuits\Sequential Logic\Counters\Four-bit binary counter.v"
+Open File1="..\3_Circuits\Sequential Logic\Counters\Decade counter.v"
 Remember Files="1"
 
 [Project Information]
-Project Start="E7070B0001000D0015002B00180000005F"
-
+Project Start=E7070B0001000D0015002B00180000005F
